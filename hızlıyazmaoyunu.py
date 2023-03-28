@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 16 14:36:23 2022
-
-@author: eftal
 """
 
 import time
